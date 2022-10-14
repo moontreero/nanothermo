@@ -1,0 +1,4 @@
+# requirements.in
+#math math is not needed, because is built in in python
+numpy
+matplotlib
